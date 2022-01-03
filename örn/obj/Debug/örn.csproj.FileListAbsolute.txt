@@ -1,0 +1,21 @@
+C:\Users\asus\Desktop\udemy kurs\örn\örn\bin\Debug\örn.exe.config
+C:\Users\asus\Desktop\udemy kurs\örn\örn\bin\Debug\örn.exe
+C:\Users\asus\Desktop\udemy kurs\örn\örn\bin\Debug\örn.pdb
+C:\Users\asus\Desktop\udemy kurs\örn\örn\obj\Debug\örn.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\örn\örn\obj\Debug\örn.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\örn\örn\obj\Debug\örn.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\örn\örn\obj\Debug\örn.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\örn\örn\obj\Debug\örn.exe
+C:\Users\asus\Desktop\udemy kurs\örn\örn\obj\Debug\örn.pdb
+C:\Users\asus\Desktop\udemy kurs\kitap indirimi\örn\bin\Debug\örn.exe.config
+C:\Users\asus\Desktop\udemy kurs\kitap indirimi\örn\obj\Debug\örn.exe
+C:\Users\asus\Desktop\udemy kurs\kitap indirimi\örn\obj\Debug\örn.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\bin\Debug\örn.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\obj\Debug\örn.exe
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\obj\Debug\örn.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\bin\Debug\örn.exe
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\bin\Debug\örn.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\obj\Debug\örn.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\obj\Debug\örn.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\obj\Debug\örn.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form\kitap indirimi\örn\obj\Debug\örn.csproj.GenerateResource.Cache
